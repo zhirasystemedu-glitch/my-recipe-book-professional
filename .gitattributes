@@ -1,0 +1,9 @@
+# This file is used to override language statistics
+# Project-specific overrides
+public/** linguist-vendored  
+*.ts linguist-detectable
+*.svg text
+src/**/*.ts linguist-detectable
+
+dist/* linguist-vendored
+public/* linguist-vendored
