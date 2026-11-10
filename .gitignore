@@ -1,0 +1,6 @@
+.env
+*.tgz
+dist/
+.pnpm-store/
+*.log
+npm-debug.log*
